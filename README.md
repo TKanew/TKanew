@@ -35,7 +35,7 @@ Luto para incentivar pessoas, principalmente de grupos minorizados, a entrarem e
 ---
 
 Onde me encontrar? :mag:  
-
+<!--
 <a href="https://twitter.com/TKanew"><img src="https://github.com/TKanew/TKanew/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/TKanew)   
 
 <a href="https://www.instagram.com/TKanew/"><img src="https://github.com/TKanew/TKanew/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/TKanew)  
@@ -43,7 +43,7 @@ Onde me encontrar? :mag:
 <a href="https://www.linkedin.com/in/TKanew"><img src="https://github.com/TKanew/TKanew/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/TKanew)  
 
 <a href="mailto:TKanew.contato@gmail.com"><img src="https://github.com/TKanew/TKanew/blob/main/images/email.png" width="16"></img></a> [Email](mailto:TKanew.contato@gmail.com)
-
+-->
 
 <!--
 **TKanew/TKanew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
