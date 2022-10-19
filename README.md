@@ -11,8 +11,9 @@
 </table>
 </center> 
 
-
+<!--
 <a href="https://www.linkedin.com/in/"><img src="https://github.com/TKanew/TKanew/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/TKanew)
+-->
 
 ![](https://komarev.com/ghpvc/?username=TKanew&color=blue&style=flat)
 
